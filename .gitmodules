@@ -1,0 +1,3 @@
+[submodule "themes/bearplus"]
+	path = themes/bearplus
+	url = https://github.com/francoposa/zola-bearplus
